@@ -3,7 +3,6 @@ const filesToCache = [
   './',
   './index.html',
   './manifest.json',
-  // Add your icons, CSS, JS here if separate files exist
 ];
 
 self.addEventListener('install', event => {
